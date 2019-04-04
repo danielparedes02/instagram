@@ -1,0 +1,78 @@
+
+.facebook{
+	font-family: 'Lobster', cursive;
+	font-size: 22px;
+}
+
+.ico{
+	text-decoration: none;
+}
+
+.vantana{
+	margin-top: 0px;
+}
+
+img{
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+.col-md-4{
+	margin: 0px;
+	padding: 0px;
+	border: 1px solid #fff;
+}
+
+.col-6 {
+	margin-top: 30px;
+	ax-width: 33.333333%;
+
+}
+
+.grilla{
+	background-color: #e2e2e2;
+}
+
+.marco{
+	background-color: #fff;
+}
+
+p{
+	text-align: left;
+}
+
+span {
+	text-align: right;
+}
+
+.car{
+	width: 100%;
+}
+
+.pildora{
+	background-color: #fff;
+}
+
+.vertical{
+	background-color: #e2e2e2;
+}
+
+.camara{
+	padding: 10px;
+	border:  1px solid #b4afaf;
+	margin-right: 10px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.local{
+	padding: 10px;
+	border:  1px solid #b4afaf;
+	margin-right: 10px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}

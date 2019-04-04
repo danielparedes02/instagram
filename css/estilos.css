@@ -1,0 +1,46 @@
+body{
+    padding-bottom:20px;
+}
+.modal-content{
+    border-radius:0 !important;
+}
+.btn-icon{
+    width: 35px;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    background:#63696F !important;
+}
+.nav-pills a{
+    color:#63696F;
+}
+.tab-new ul{
+    background:#fff;
+    padding:10px;
+}
+.card-img-top{
+    border-radius:0 !important;
+}
+.card-body,.card-header{
+    padding: 0.7rem;;
+}
+.card h5 span{
+    color:#BBC4CC;
+    font-weight:none !important;
+}
+.commit-bottom{
+    margin-bottom:0px !important;
+}
+.gallery-instagram .row > div{
+    padding:0;
+    margin:0;
+}
+.gallery-instagram img{
+    width:100%;
+}
+.description-post{
+    background:#AFBECA;
+}
+.footer img{
+    width: 100% !important;
+    height: auto !important;
+}
